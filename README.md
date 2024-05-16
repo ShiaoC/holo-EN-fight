@@ -22,7 +22,7 @@ Holo-EN Fight is a 2D game inspired by the first generation of Hololive EN Vtube
 - Valuable experience that supported my university graduation project and lab applications.
 
 ## Video Demonstration
-![](https://youtu.be/S3VtPuj6qeY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3VtPuj6qeY?si=KHt84P_rj1HynfTL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Inspiration
 The game draws inspiration from the animated GIFs of the Hololive EN Vtubers created by [Walfie](https://twitter.com/walfieee). Given the abundance of Ame GIFs, she was selected as the controllable character for this project.
@@ -61,7 +61,7 @@ Holo-EN Fight 是一款靈感來自 Hololive EN 第一代 Vtuber 的 2D 遊戲�
 - 為我之後爭取大學畢業專題教授和實驗室提供了很大幫助。
 
 ## 遊戲演示
-![](https://youtu.be/S3VtPuj6qeY)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3VtPuj6qeY?si=KHt84P_rj1HynfTL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 靈感來源
 這個遊戲的靈感來自於 [Walfie](https://twitter.com/walfieee) 製作的 Hololive EN Vtuber 動態 GIF。由於 Ame 的 GIF 數量較多，因此選擇她作為可操控角色。
