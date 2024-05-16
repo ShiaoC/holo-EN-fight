@@ -42,7 +42,7 @@ Although this project remains incomplete, I plan to continue enhancing it when p
 # 簡介
 **語言**: [English](#Introduction) | 中文
 
-Holo-EN Fight 是一款靈感來自 Hololive EN 第一代 Vtuber 的 2D 遊戲。這個項目是在我大學二年級的清明節假期（2022年四月）中開始製作的，並在五天內開發完成。雖然它是一個未完成的原型，但它為我提供了寶貴的遊戲開發和面向對象編程的練習機會。
+Holo-EN Fight 是一款靈感來自 Hololive EN 第一代 Vtuber 的 2D 遊戲。這個項目是在我大學二年級的清明節假期（2022年四月）中開始製作的，並在五天內開發完成。雖然它是一個未完成的原型，但它為我提供了寶貴的遊戲開發和物件導向程式設計的練習機會。
 
 ## 特點
 - **可操控角色**: 玩家控制 Ame，選擇她的原因是 Walfie 製作了大量的相關 GIF 圖片。
@@ -56,7 +56,7 @@ Holo-EN Fight 是一款靈感來自 Hololive EN 第一代 Vtuber 的 2D 遊戲�
 
 ## 項目亮點
 - 全部由我自己構思和開發。
-- 在面向對象編程和遊戲開發方面進行了大量練習。
+- 在物件導向程式設計和Untiy遊戲開發與架構設計方面進行了大量練習。
 - 為提高程式可讀性，添加了許多程式間的相互引用細節。
 - 為我之後爭取大學畢業專題教授和實驗室提供了很大幫助。
 
